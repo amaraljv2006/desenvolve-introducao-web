@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Meu Portal de Notícias</title>
+</head>
+<body>
+<h1><strong>Atlético-MG e Cruzeiro</strong> voltam a fazer final do Mineiro</h1>
+<h2>veja como foram as semis</h2>
+<р>
+Atlético-MG e Cruzeiro estão classificados para a final do Campeonato Mineiro 2024. Os <strong>rivais</strong> farão a grande decisão do estadual após superarem América e Tombense, respectivamente, nas semifinais da competição. No entanto, os confrontos de Galo e Raposa tiveram enredos bem diferentes para conseguirem suas vagas.
+</p>
+<p>
+As partidas de volta do Mineiro foram disputadas nete fim de semana. O <em>Atlético-MG</em> enfrentou o Coelho neste domingo (17), na Arena Independência, e saiu derrotado por 2 a 1. Contudo, como havia vencido por 2 a 0 na ida, o Galo garantiu seu lugar na final. Do outro lado, o Cruzeiro encarou o Tombense no Mineirão, no sábado (16), e venceu por 3 a 1. Com o empate em 0 a 0 no primeiro jogo, a Raposa volta à decisão do estadual. 
+</p>
+<p>
+O América entrou em campo precisando reverter de 2 a 0 conquistado pelo Atlético-MG na ida, e foi para cima logo de cara. Assim, o Coelho abriu o placar com Brenner, aos seis minutos de partida. O Galo chegou ao empate pouco depois do intervalo, com <em>Paulinho</em> aproveitando sobra dentro da área. Os donos da casa ainda marcaram com Vitor Jacaré para vencer o jogo, mas não foi suficiente para tirar a vaga do adversário.
+</p>
+<p>
+<strong>Cruzeiro</strong> e Tombense voltaram a se enfrentar após o zero a zero da partida de ida, na última semana. Arthur gomes marcou o primeiro da Raposa logo no primeiro tempo, após linda assistência de Matheus Pereira. Já na segunda etapa, a defesa do Gavião Carcará se atrapalhou e Zé Victor jogou contra o próprio gol e ampliou para os mandantes. Dez minutos depois, o zagueiro compensou a lambança e balançou as redes, dessa vez a favor. Já nos acréscimos, Matheus Pereira deixou o dele para consagrar ótima atuação e dar números finais ao duelo.
+</p>
+<p>
+Agora, Atlético-MG e Cruzeiro se enfrentam em duas partidas na grande decisão do Campeonato Mineiro, disputadas em 30 de abril e 6 de março. O jogo de ida será na Arena MRV, e a volta será no Mineirão, com mando da Raposa, que terminou a primeira fase com a <strong>melhor campanha da competição</strong>.
+</p>
+</body>
+</html>
